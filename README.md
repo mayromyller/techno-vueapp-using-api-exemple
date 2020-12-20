@@ -1,24 +1,12 @@
-<h1 align="center">Welcome to techno 👋</h1>
-<p>
-  <img src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-</p>
+## Techo Curso
 
-> Projeto criado no curso de VueJs da Origamid
+Project create in Origamid course 'VueJS 2 Completo'
 
-## Install
+Install all dependencies, running in the folder 'techno-cursos: `yarn install` or `npm install`
 
-```sh
-npm install
-```
+See the project running with the command: `yarn serve`
 
-## Author
-
-👤 **Mayro Myller**
-
-
-## Show your support
-
-Give a ⭐️ if this project helped you !
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+### For running this API exemple:
+ 
+- install json-server in [json-server](https://www.npmjs.com/package/json-server)
+- run in your terminal this command: `json-server --watch api.json`
